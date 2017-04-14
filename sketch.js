@@ -13,5 +13,5 @@ function draw() {
       fill(random(255),random(255),random(255));
       ellipse(x, 200,25,25);
     }
-offset = offset +3;
+offset = offset +2;
 }
